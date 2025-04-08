@@ -1,4 +1,4 @@
-# MNIST-Deep-learning
+# MNIST-Deep-Learning
 
 Use the Pytorch software and CNN (Convolutional Neural Network) framework for handwritten digits classification. Image classification aims to predict the category of object in an image (one image can only have one object in it). It has attracted much attention within the computer vision community in recent years as an important component for computer vision applications, such as self-driving vehicles, video surveillance and robotics. It is also the foundation of other computer vision research topics, such as object detection and instance segmentation. CNN is a framework with both feature extraction and classification using deep convolutional neural network. A typical CNN pipeline is shown below.
 
